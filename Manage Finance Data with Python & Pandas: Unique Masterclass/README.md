@@ -63,7 +63,6 @@ Step into a Financial Analyst/Advisor role and provide advice on a client's fina
 - pandas (data manipulation)
 - NumPy (numerical computing)
 - Seaborn & Matplotlib (visualization)
-- ChatGPT (assisted analytics)
 
 ## Notes
 This course focuses on practical, real-world financial data analysis. It is designed to help finance professionals transition from Excel to Python/Pandas for increased efficiency and productivity.
