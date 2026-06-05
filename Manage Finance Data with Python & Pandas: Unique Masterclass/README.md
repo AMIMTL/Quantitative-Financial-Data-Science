@@ -51,7 +51,7 @@ Step into a Financial Analyst/Advisor role and provide advice on a client's fina
 - Desktop computer for Anaconda installation
 - Internet connection for streaming
 - High school math helpful but not mandatory
-<img width="924" height="332" alt="Screenshot 2026-06-04 222550" src="https://github.com/user-attachments/assets/6468ddf4-361a-4a54-ae78-4d063876abfe" />
+
 
 ## Repository Contents
 - `/notebooks` - Jupyter notebooks from all 25 chapters
