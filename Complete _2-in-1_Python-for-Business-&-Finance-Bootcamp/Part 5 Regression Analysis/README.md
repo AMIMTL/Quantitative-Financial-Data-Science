@@ -1,6 +1,4 @@
-**Extended Description:**
-
-- **Section 26:** Part 5 introduction - Regression as a machine learning essential
+**Extended Description:** Part 5 introduction - Regression as a machine learning essential
 
 - **Section 27:** Correlation and regression fundamentals, covariance, and scatterplot interpretation
 
