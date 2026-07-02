@@ -55,4 +55,4 @@ The course is organized into 38 chapters covering:
 - `/projects` - Keystone project solutions
 
 ## Notes
-- [Add your own personal notes, challenges, or key concepts as you progress through the course]
+
