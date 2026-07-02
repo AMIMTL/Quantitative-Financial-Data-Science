@@ -29,4 +29,4 @@
 - `/projects` - Final course project
 
 ## Notes
-[Add any personal notes, challenges, or important concepts you want to remember]
+
