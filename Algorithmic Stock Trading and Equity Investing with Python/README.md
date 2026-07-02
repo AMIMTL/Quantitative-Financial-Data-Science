@@ -2,10 +2,10 @@
 
 **Course source:** [Udemy - Algorithmic Stock Trading and Equity Investing with Python](https://www.udemy.com/course/algorithmic-stock-trading-and-equity-investing-with-python/)
 
-**Instructor:** [To be filled in]  
-**Last updated:** [To be filled in]  
-**Total length:** [To be filled in]  
-**Status:** 🔄 In Progress (Started: [Date you started])
+**Instructor:** [Alexander Hagmann]  
+**Last updated:** [12/2025]  
+**Total length:** [37.5 hours on-demand video]  
+**Status:** 🔄 In Progress (Started: [July/2026])
 
 ## Course Overview
 [Add a brief description of the course here. What is the main focus? What will you learn?]
