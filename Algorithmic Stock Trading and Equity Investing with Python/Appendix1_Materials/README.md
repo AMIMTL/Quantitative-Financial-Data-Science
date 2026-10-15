@@ -3,8 +3,6 @@
 **Course:** Algorithmic Stock Trading and Equity Investing with Python  
 **Section:** 33 - Appendix 1: Python (& Finance) Basics  
 **Status:** ✅ Completed  
-**Completed on:** [Add Date]
-
 ---
 
 ## 📚 Section Overview
