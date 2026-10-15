@@ -3,8 +3,6 @@
 **Course:** Algorithmic Stock Trading and Equity Investing with Python  
 **Section:** 34 - Appendix 2: User-defined Functions  
 **Status:** ✅ Completed  
-**Completed on:** [Add Date]
-
 ---
 
 ## 📚 Section Overview
