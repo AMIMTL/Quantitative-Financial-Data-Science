@@ -3,8 +3,6 @@
 **Course:** Algorithmic Stock Trading and Equity Investing with Python  
 **Section:** 35 - Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course  
 **Status:** ✅ Completed  
-**Completed on:** [Add Date]
-
 ---
 
 ## 📚 Section Overview
