@@ -3,8 +3,6 @@
 **Course:** Algorithmic Stock Trading and Equity Investing with Python  
 **Section:** 7 - Equity Analysis with Python (Part 2)  
 **Status:** ✅ Completed  
-**Completed on:** [Add Date]
-
 ---
 
 ## 📚 Section Overview
