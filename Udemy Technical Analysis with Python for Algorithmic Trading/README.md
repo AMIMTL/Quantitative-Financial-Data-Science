@@ -5,7 +5,7 @@
 **Instructor:** Alexander Hagmann  
 **Last updated:** December 2025  
 **Total length:** ~13.5 hours (167 lectures, 17 sections)  
-**Status:** ✅ Completed
+**Status:** 🔄 In progress
 
 ## Course Overview
 This is a data-driven course on Technical Analysis. It goes beyond theory and rules, using rigorous backtesting and forward testing to identify and optimize trading strategies based on technical indicators. You will build Python frameworks to code and test thousands of trading strategies quickly.
